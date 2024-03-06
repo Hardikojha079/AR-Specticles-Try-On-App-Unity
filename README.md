@@ -1,5 +1,5 @@
 # AR-Specticles-Try-On
-Developed my second AR Based application for android phones using unity. It detects and tracks the face to try out various specticles <br> on yourself through this app and buy them if it suites you. Use on unity version 2022.3.10f1 and above.
+Developed my second AR Based application for android phones using unity. It detects and tracks the face to try out various specticles on yourself through this app and buy them if it suites you. Use on unity version 2022.3.10f1 and above.
 
 # Steps-To-Build-And-Run-Application:
 
